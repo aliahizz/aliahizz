@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I'm Aliah👋
 
 <!--
 **aliahizz/aliahizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
-<h1 align="center">Hi 👋, I'm Aliah Izzati</h1>
-<h3 align="center">I'm Aliah, a digital explorer navigating the vast world of code.</h3>
+--
+<h3 align="center"> Preferred to be called Aliah Izz and I'm a digital explorer navigating the vast world of code.</h3>
 
 - ⚡ Fun fact **I love writing and reading novels!**
 
