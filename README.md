@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---
-<h3 align="center"> Preferred to be called Aliah Izz and I'm a digital explorer navigating the vast world of code.</h3>
+-- Preferred to be called Aliah Izz and I'm a digital explorer navigating the vast world of code.</h3>
 
 - ⚡ Fun fact **I love writing and reading novels!**
 
