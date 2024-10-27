@@ -9,7 +9,7 @@
 - 📫 You can reach me at **nuraliahizzati@graduate.utm.my**
 - ⚡ Fun fact : **I love writing and reading novels!**
 
-  ## Inspirational Quote
+## Inspirational Quote
 - "It's not what you know, it's what you do with what you know."
 
 <h3 align="left">Connect with me:</h3>
