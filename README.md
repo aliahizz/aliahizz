@@ -1,7 +1,6 @@
-## Hi there , I'm Aliah👋
-hiii
+## Hello, future billionaire!
 
-<h1 align="center">Hi 👋, I'm Aliah Izzati</h1>
+<h1 align="center"> I'm Aliah Izzati</h1>
 <h3 align="center">I'm Aliah, a digital explorer navigating the vast world of code.</h3>
 
 - 📫 How to reach me **nuraliahizzati@graduate.utm.my**
