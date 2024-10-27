@@ -6,8 +6,11 @@
 
 - 🔭 I’m currently **learning C++ programming language**
 - 🤔 I’m diligently **exploring and improving my way in Excel and Google Sheets**
-- 📫 How to reach me **nuraliahizzati@graduate.utm.my**
+- 📫 You can reach me at **nuraliahizzati@graduate.utm.my**
 - ⚡ Fun fact : **I love writing and reading novels!**
+
+- ## Inspirational Quote
+- "It's not what you know, it's what you do with what you know."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
