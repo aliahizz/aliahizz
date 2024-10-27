@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently **learning C++ programming language**
-- 🤔 I’m currently **exploring and improving my way in Excel and Google Sheets**
+- 🤔 I’m diligently **exploring and improving my way in Excel and Google Sheets**
 - 📫 How to reach me **nuraliahizzati@graduate.utm.my**
 - ⚡ Fun fact : **I love writing and reading novels!**
 
