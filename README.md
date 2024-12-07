@@ -21,7 +21,7 @@
     </a>
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/thesyaflee" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn - thesyaflee" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn - aliahizzatiazhari" height="30" width="40" />
     </a>
 </p>
 
