@@ -1,7 +1,7 @@
 ## Hello, future billionaire!
 
 <h1 align="center"> I'm Aliah Izzati 🌱 </h1>
-<h3 align="center">a digital explorer navigating the vast world of code.</h3>
+<h3 align="center">Data Engineering student at Universiti Teknologi Malaysia</h3>
 
 
 - 🔭 I’m currently **learning C++ programming language**
