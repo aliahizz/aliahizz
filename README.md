@@ -19,9 +19,11 @@
     <a href="https://instagram.com/thesyaflee" target="_blank" rel="noopener noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - thesyaflee" height="30" width="40" />
     </a>
- <a href="https://linkedin.com/in/aliahizzatiazhari" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="./images/linkedin.svg" alt="LinkedIn - aliahizzatiazhari" height="30" width="40" />
-</a>
+<!-- LinkedIn -->
+    <a href="https://linkedin.com/in/aliahizzatiazhari" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn - aliahizzatiazhari" height="30" width="40" />
+    </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
