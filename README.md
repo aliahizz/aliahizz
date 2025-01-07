@@ -7,7 +7,7 @@
 - 🔭 I’m currently **learning C++ programming language**
 - 🤔 I’m diligently **exploring and improving my way in Excel and Google Sheets**
 - ✨ My MBTI is ISTP
-- 🤔 Visit my e-portfolio [here] (
+- 🤔 Visit my e-portfolio [here] (http://aliahizz.github.io/)
 - 📫 You can reach me at **nuraliahizzati@graduate.utm.my**
 - ⚡ Fun fact : **I love writing and reading novels!**
 
